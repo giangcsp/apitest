@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{E4149DA6-C93C-4EE7-A91C-B7AD50E6FBA4}|Default">
+  <MonoDevelop.Ide.ItemProperties.test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Repos/repo/ARepo.cs">
+    <Files>
+      <File FileName="property/Address.cs" Line="16" Column="10" />
+      <File FileName="property/Pcontext.cs" />
+      <File FileName="appsettings.json" />
+      <File FileName="appsettings.Development.json" />
+      <File FileName="Repos/AInterface.cs" Line="16" Column="6" />
+      <File FileName="Repos/repo/ARepo.cs" Line="33" Column="1" />
+      <File FileName="Controllers/PController.cs" />
+      <File FileName="Controllers/AController.cs" />
+      <File FileName="Repos/repo/PRepo.cs" />
+      <File FileName="Properties/launchSettings.json" />
+      <File FileName="Repos/PInterface.cs" />
+      <File FileName="property/Person.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="test" expanded="True">
+            <Node name="test" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="property" expanded="True" />
+              <Node name="Repos" expanded="True">
+                <Node name="repo" expanded="True">
+                  <Node name="ARepo.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
